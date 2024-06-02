@@ -1,9 +1,10 @@
 {
-  "name": "studentno-classcode-group-name-surname-djs07",
+  "name": "BILMAB458_WFO2401_B_Billy-Mabunda_DJS07",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
