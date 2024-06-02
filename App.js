@@ -1,6 +1,6 @@
 import React from "react"
-import Header from "./components/Header.js"
-import Meme from "./components/Meme.js"
+import Header from "./components/Header"
+import Meme from "./components/Meme"
 /**
  * Challenge: 
  * - Create a Meme component.
