@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+import Header from "../components/Header.jsx"
+import Meme from "../components/Meme.jsx"
+
+function App() {
+
+  return (
+    <div>
+      <Header />
+      <Meme />
+    </div>
+  )
+=======
 import React from "react"
 import Header from "./components/Header.js"
 import Meme from "./components/Meme.js"
@@ -15,4 +28,5 @@ export default function App() {
             <Meme />
         </div>
     )
+>>>>>>> 1a18fe28b576d8cef43c49fe5b3cdd6a8110f038
 }

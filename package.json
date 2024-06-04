@@ -1,7 +1,11 @@
 {
+<<<<<<< HEAD
+  "name": "BILMAB458-WFO2401-B-Billy-Mabunda-DJS07",
+=======
   "name": "bilmab458_wfo2401_b_billy-mabundadjs07",
+>>>>>>> 1a18fe28b576d8cef43c49fe5b3cdd6a8110f038
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "start": "vite",
